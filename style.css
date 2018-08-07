@@ -1,0 +1,16 @@
+.navbar .navbutton {
+    width: 25% auto;
+    height: 10% auto;
+    background-color: #000;
+    color: #fff;
+}
+
+.navbar .navbutton ul {
+  text-decoration: none;                                                                                           
+}
+
+.navbar .navbutton ul li a {
+  text-decoration: none;
+  list-style: none;
+
+}
