@@ -7,7 +7,7 @@ body {
   text-align: center;
   font-family: 'Kaushan Script';
   font-size: 30px;
-  background:linear-gradient(90deg, #ffffff, #d4d4d4);
+  background: linear-gradient(90deg, #ffffff, #d4d4d4);
   padding-top: 5px;
   padding-bottom: 5px;
   color: #808080;
@@ -15,7 +15,6 @@ body {
 
 .header a h1 {
   font-weight: 100;
-  font-family: 'Kaushan Script';
 }
 
 .content {
@@ -26,12 +25,26 @@ body {
 .content .left {
   float: left;
   text-align: center;
-  width: 40%;
-  border-right: 1px solid black;
+  width: 45%;
+  font-family: 'Kaushan Script';
+  background: linear-gradient(90deg, #ffffff, #d4d4d4);
+  padding: 20px;
 }
 
 .content .right {
   float: right;
   text-align: center;
-  width: 40%;
+  width: 45%;
+  font-family: 'Kaushan Script';
+  padding: 20px;
+  background: linear-gradient(90deg, #ffffff, #d4d4d4);
+}
+
+.firstpic {
+  width: 90%;
+}
+
+.secondpic {
+  width: 63%;
+  height: 10%;
 }
