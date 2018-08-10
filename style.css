@@ -18,12 +18,20 @@ body {
   font-family: 'Kaushan Script';
 }
 
+.content {
+  margin-top: 5%;
+  padding-top: 5px;
+}
+
 .content .left {
   float: left;
+  text-align: center;
   width: 40%;
+  border-right: 1px solid black;
 }
 
 .content .right {
   float: right;
+  text-align: center;
   width: 40%;
 }
